@@ -1,4 +1,3 @@
-##实值评分矩阵:size——69878*10677
 rm(list=ls())
 ##主要工作：限制test集的item在train集中
 library(plyr)
